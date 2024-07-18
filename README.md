@@ -82,6 +82,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LND237/LND237/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![snake_gif](https://github.com/LND237/LND237/blob/output/github-contribution-grid-snake.gif)
 
 ###
