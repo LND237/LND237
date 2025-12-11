@@ -44,11 +44,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
