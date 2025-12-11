@@ -82,6 +82,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/LND237/LND237/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/LND237/LND237/output/github-contribution-grid-snake.gif)
 
 ###
